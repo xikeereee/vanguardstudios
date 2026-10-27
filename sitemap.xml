@@ -1,8 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xikeereee.github.io/vanguardstudios/</loc></url>
-  <url><loc>https://xikeereee.github.io/vanguardstudios/servicios.html</loc></url>
-  <url><loc>https://xikeereee.github.io/vanguardstudios/galeria.html</loc></url>
-  <url><loc>https://xikeereee.github.io/vanguardstudios/contacto.html</loc></url>
-  <url><loc>https://xikeereee.github.io/vanguardstudios/produccion-musical-rubi.html</loc></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://xikeereee.github.io/vanguardstudios/</loc>
+    <lastmod>2026-10-18T14:35:46+00:00</lastmod>
+    <priority>1.0000</priority>
+  </url>
+  <url>
+    <loc>https://xikeereee.github.io/vanguardstudios/index.html</loc>
+    <lastmod>2026-10-18T14:35:46+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://xikeereee.github.io/vanguardstudios/servicios.html</loc>
+    <lastmod>2026-10-18T14:35:46+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://xikeereee.github.io/vanguardstudios/galeria.html</loc>
+    <lastmod>2026-10-18T14:35:46+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://xikeereee.github.io/vanguardstudios/contacto.html</loc>
+    <lastmod>2026-10-18T14:35:46+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
+  <url>
+    <loc>https://xikeereee.github.io/vanguardstudios/produccion-musical-rubi.html</loc>
+    <lastmod>2026-10-18T14:35:46+00:00</lastmod>
+    <priority>0.8000</priority>
+  </url>
 </urlset>
